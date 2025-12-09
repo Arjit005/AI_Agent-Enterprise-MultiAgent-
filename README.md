@@ -1,6 +1,7 @@
 AI Agent – Enterprise MultiAgent System
 This project is an experimental AI Multi-Agent System designed for enterprise use-cases such as automated support, task delegation, and intelligent workflow handling.
 🚀 Features
+
 a. Multi-agent architecture
 
 
@@ -17,13 +18,15 @@ e.Modular code structure for scalability
 
 
 📁 Contents
+
 This repository contains:
 copy_of_techtrove_ai_enterprise_support_swarm.ipynb
  → Main Colab notebook containing complete agent logic, setup, and execution.
 
 
 🧠 Tech Stack
-a,Python
+
+a.Python
 
 
 b.Google Generative AI (Gemini)
@@ -32,13 +35,14 @@ b.Google Generative AI (Gemini)
 c.Dataclasses
 
 
-4.Enums
+d.Enums
 
 
-5.Kaggle Secrets (for secure key handling)
+e.Kaggle Secrets (for secure key handling)
 
 
 🛠️ How to Run
+
 1.Open the notebook in Google Colab
 
 
@@ -55,6 +59,7 @@ c.Dataclasses
 
 🎯 Goal
 To build a fully functional enterprise-level AI agent system capable of:
+
 a.Intelligent reasoning
 
 
